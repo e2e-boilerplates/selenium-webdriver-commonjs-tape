@@ -1,10 +1,10 @@
 {
-  "name": "selenium-webdriver-commonjs-jasmine-expect",
+  "name": "selenium-webdriver-commonjs-tape",
   "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate, using CommonJS, Jasmine and Expect.",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using CommonJS and Tape.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
-    "test": "npx jasmine"
+    "test": "node ./spec/*.spec.js"
   },
   "keywords": [
     "selenium-webdriver",
@@ -23,10 +23,10 @@
     "eslint-plugin-import": "2.20.0",
     "eslint-plugin-prettier": "3.1.2",
     "husky": "4.2.1",
-    "jasmine": "3.5.0",
     "prettier": "1.19.1",
     "pretty-quick": "2.0.1",
-    "selenium-webdriver": "4.0.0-alpha.5"
+    "selenium-webdriver": "4.0.0-alpha.5",
+    "tape": "^4.13.0"
   },
   "husky": {
     "hooks": {
