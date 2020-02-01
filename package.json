@@ -9,7 +9,7 @@
   "keywords": [
     "selenium-webdriver",
     "comonjs",
-    "jasmine",
+    "tape",
     "boilerplate",
     "example"
   ],
