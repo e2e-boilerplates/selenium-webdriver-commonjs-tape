@@ -6,7 +6,7 @@ Selenium-WebDriver end-to-end test automation boilerplate, using Commonjs and Ta
 
 ## Getting Started
 
-    	git clone git@github.com:e2e-boilerplate/selenium-webdriver-commonjs-tape.git
-    	cd selenium-webdriver-commonjs-tape
-    	npm install
-    	npm run test
+    	1. git clone git@github.com:e2e-boilerplate/selenium-webdriver-commonjs-tape.git
+    	2. cd selenium-webdriver-commonjs-tape
+    	3. npm install
+    	4. npm run test
