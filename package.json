@@ -1,9 +1,9 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-tape/issues"
   },
-  "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using Using Commonjs and Tape.",
+  "description": "Selenium-WebDriver end-to-end test automation boilerplate. using Commonjs and Tape.",
   "devDependencies": {
     "chromedriver": "79.0.3",
     "eslint": "6.8.0",
@@ -25,12 +25,7 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "commonjs",
-    "e2e",
-    "e2e tests",
-    "example",
-    "integration test",
     "selenium",
     "selenium-webdriver",
     "tape"
