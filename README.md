@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-commonjs-tape](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-tape/workflows/selenium-webdriver-commonjs-tape/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-tape/actions?workflow=selenium-webdriver-commonjs-tape)
+[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-commonjs-tape](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-tape/workflows/selenium-webdriver-commonjs-tape/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-tape/actions?workflow=selenium-webdriver-commonjs-tape) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Selenium-WebDriver Boilerplate
 
