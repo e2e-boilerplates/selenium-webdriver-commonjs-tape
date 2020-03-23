@@ -8,7 +8,7 @@
     "selenium-webdriver": "4.0.0-alpha.7",
     "tape": "4.13.2"
   },
-  "description": "Selenium-WebDriver end-to-end test automation boilerplate. using Commonjs and Tape.",
+  "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using Commonjs and Tape.",
   "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
